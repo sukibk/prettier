@@ -11,7 +11,7 @@ prettier [options] [file/dir/glob ...]
 
 > To run your locally installed version of Prettier, prefix the command with `npx` or `yarn` (if you use Yarn), i.e. `npx prettier --help`, or `yarn prettier --help`.
 
-To format a file in-place, use `--write`. (Note: This overwrites your files!)
+To format a file in-place, use `--write`. (Note: This command will overwrite your files!)
 
 In practice, this may look something like:
 
